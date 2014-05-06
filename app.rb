@@ -2,6 +2,7 @@
 require 'sinatra'
 require 'sinatra/reloader'
 
+# ABC = Always Be Committing
 
 ####CONSTANTS
 $wins_hash = {
