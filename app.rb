@@ -5,7 +5,7 @@ require 'sinatra/reloader'
 # ABC = Always Be Committing
 
 ####CONSTANTS
-$wins_hash = {
+$wining_states_hash = {
   :rock => :scissors,
   :rock => :lizard,
   :scissors => :paper,
