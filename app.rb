@@ -15,6 +15,9 @@ require 'sinatra/reloader'
 
 ############ CHRIS'S CODE ###############
 
+
+#combined John's simplified .include? code.
+
 $wining_states_hash = {
   :rock => [:scissors, :lizard],
   :scissors => [:paper, :lizard],
@@ -23,19 +26,38 @@ $wining_states_hash = {
   :spock => [:rock, :scissors]
 }
 
-
+#~~~~~~~~~~~~
 
 def evaluate_results(user_choice, computer_choice)
   user_choice = user_choice.to_sym
-  if user_choice == computer_choice[0] || user_choice == computer_choice[1]
+  if user_choice == computer_choice
     return "Tie!"
-  elsif user_choice == $wining_states_hash[computer_choice[0]] || user_choice == $wining_states_hash[computer_choice[1]]
-    return "Computer wins!"
-  elsif user_choice != $wining_states_hash[computer_choice[0]] || user_choice != $wining_states_hash[computer_choice[1]]
+  elsif $wining_states_hash[user_choice].include?(computer_choice)
     return "User wins!"
+  else #
+    return "Computer wins!"
   end
 end
 
+
+#~~~~~~~~~
+
+
+get '/' do
+  redirect('/play')
+end
+
+get '/play' do
+  erb :play
+end
+
+
+get '/play/:user_choice' do
+    @user_choice = params[:user_choice].to_sym
+    @computer_choice = $wins_hash.keys.sample
+    @result = evaluate_results(@user_choice, @computer_choice)
+    erb :result
+end
 
 
 ########### END CHRIS ###################
