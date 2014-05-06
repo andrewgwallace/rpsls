@@ -1,0 +1,1192 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"old",
+				"old_product_quantity_in_stock"
+			],
+			[
+				"input",
+				"input_id"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"produc",
+				"product_quantity_in_stock"
+			],
+			[
+				"y",
+				"yes_or_no"
+			],
+			[
+				"new_",
+				"new_product_description"
+			],
+			[
+				"new_prod",
+				"new_product_quantity_in_stock"
+			],
+			[
+				"old_pro",
+				"old_product_quantity_in_stock"
+			],
+			[
+				"quan",
+				"quantity_in_stock"
+			],
+			[
+				"po",
+				"positive_integer"
+			],
+			[
+				"product_",
+				"product_description"
+			],
+			[
+				"product",
+				"product_price"
+			],
+			[
+				"produ",
+				"product_description"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"da",
+				"database_hash"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"ship",
+				"ship_product"
+			],
+			[
+				"ord",
+				"order_product"
+			],
+			[
+				"del",
+				"delete_product_record"
+			],
+			[
+				"up",
+				"update_product_record"
+			],
+			[
+				"create",
+				"create_product_record"
+			],
+			[
+				"tabl",
+				"table_name"
+			],
+			[
+				"ta",
+				"tablename"
+			],
+			[
+				"search",
+				"search_type"
+			],
+			[
+				"pro",
+				"product_quantity_in_stock"
+			],
+			[
+				"number",
+				"number_to_order"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"get",
+				"get_and_validate"
+			],
+			[
+				"db",
+				"dbname"
+			],
+			[
+				"artist",
+				"artist_hash"
+			],
+			[
+				"array",
+				"array_of_artists_to_test"
+			],
+			[
+				"creator",
+				"creator_obj"
+			],
+			[
+				"ap",
+				"api_response_parsed"
+			],
+			[
+				"arrary",
+				"array_of_artists_to_expand_from"
+			],
+			[
+				"of",
+				"array_of_tested_artists"
+			],
+			[
+				"arra",
+				"array_of_tested_artists"
+			],
+			[
+				"build",
+				"build_array_of_related_artists"
+			],
+			[
+				"art",
+				"artists_arr_by_name"
+			],
+			[
+				"rele",
+				"release_group_objs_arr"
+			],
+			[
+				"api_",
+				"api_raw"
+			],
+			[
+				"arr",
+				"array_of_release_group_ids"
+			],
+			[
+				"release",
+				"release_group"
+			],
+			[
+				"api_re",
+				"api_response_array_of_release_groups"
+			],
+			[
+				"user",
+				"users_input_artistB"
+			],
+			[
+				"ar",
+				"array_of_recordings"
+			],
+			[
+				"fr",
+				"friendly_name"
+			],
+			[
+				"arti",
+				"artistA_discography"
+			],
+			[
+				"array_",
+				"array_of_recordings"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"last",
+				"last_transaction"
+			],
+			[
+				"load",
+				"load_transaction_serial_from_disk"
+			],
+			[
+				"log",
+				"log_file"
+			],
+			[
+				"transaction",
+				"transactions_array"
+			],
+			[
+				"tran",
+				"transaction_log"
+			],
+			[
+				"lo",
+				"load_from_log"
+			],
+			[
+				"it",
+				"item_cost"
+			],
+			[
+				"tra",
+				"transaction_array"
+			],
+			[
+				"item",
+				"item_cost"
+			],
+			[
+				"transa",
+				"transaction_obj"
+			],
+			[
+				"transactio",
+				"transaction_serial"
+			],
+			[
+				"att",
+				"attr_reader"
+			],
+			[
+				"receipt",
+				"receipts_array"
+			],
+			[
+				"itme",
+				"item_cost"
+			],
+			[
+				"item_",
+				"item_name"
+			],
+			[
+				"attr",
+				"attr_accessor"
+			],
+			[
+				"prev",
+				"previous_item_cost"
+			],
+			[
+				"previou",
+				"previous_item_name"
+			],
+			[
+				"pre",
+				"previous_item_cost"
+			],
+			[
+				"new",
+				"new_cost"
+			],
+			[
+				"ite",
+				"item_name"
+			],
+			[
+				"receip",
+				"receipt_maker001"
+			],
+			[
+				"recip",
+				"receipt_maker001"
+			],
+			[
+				"com",
+				"company_name"
+			],
+			[
+				"con",
+				"company_name"
+			],
+			[
+				"recei",
+				"receipt_maker001"
+			],
+			[
+				"i",
+				"item_cost"
+			],
+			[
+				"new_st",
+				"new_student_first_name"
+			],
+			[
+				"Dev",
+				"Developer_array"
+			],
+			[
+				"sprin",
+				"spring_wdi_students"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"fav",
+				"fav_prog_lang"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"colo",
+				"border-color"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"post",
+				"postcard_objs_arr"
+			],
+			[
+				"account",
+				"account_balance"
+			],
+			[
+				"acc",
+				"account_balance"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"anim",
+				"animal001"
+			],
+			[
+				"anima",
+				"animal_being_adopted"
+			],
+			[
+				"she",
+				"shelter001"
+			],
+			[
+				"adoptin",
+				"client_adopting_animal"
+			],
+			[
+				"di",
+				"display_all_animals"
+			],
+			[
+				"sh",
+				"shelter001"
+			],
+			[
+				"obj",
+				"obj_friendly_name"
+			],
+			[
+				"dele",
+				"delete"
+			],
+			[
+				"animal",
+				"animals"
+			],
+			[
+				"sud",
+				"student_hash"
+			],
+			[
+				"joe",
+				"joe_hash"
+			],
+			[
+				"apar",
+				"apartments"
+			],
+			[
+				"num",
+				"num_floors"
+			],
+			[
+				"has",
+				"has_doorman"
+			],
+			[
+				"Apar",
+				"Apartment001"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"nu",
+				"num_floors"
+			],
+			[
+				"person",
+				"Person002"
+			],
+			[
+				"H",
+				"has_doorman"
+			],
+			[
+				"building",
+				"building002"
+			],
+			[
+				"Buil",
+				"building002"
+			],
+			[
+				"is",
+				"is_walkup"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"power",
+				"power_on"
+			],
+			[
+				"blender",
+				"blender001"
+			],
+			[
+				"remove",
+				"remove_spaces_from_string"
+			],
+			[
+				"ha",
+				"hash_or_array_of_ingredients"
+			],
+			[
+				"blen",
+				"blender001"
+			],
+			[
+				"hash",
+				"hash_of_ingredients"
+			],
+			[
+				"thing",
+				"thing_to_search_in"
+			],
+			[
+				"item_to",
+				"item_to_search_for"
+			],
+			[
+				"sock",
+				"sock_number"
+			],
+			[
+				"x",
+				"xpa	xpath(..) { .. }"
+			],
+			[
+				"proc",
+				"process_user_choice"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"synt",
+				"Set Syntax: Ruby"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"floo",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"floot",
+				"Floobits - Share Directory (Public)"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"new fil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"leave",
+				"Floobits - Leave Workspace"
+			],
+			[
+				"join",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"leav",
+				"Floobits - Leave Workspace"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"floobi",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"floo joi",
+				"Floobits - Join Workspace"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"add fold",
+				"Project: Add Folder"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git:commit",
+				"Git: Commit"
+			],
+			[
+				"git: comm",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git:com",
+				"Git: Commit"
+			],
+			[
+				"git:add",
+				"Git: Quick Add"
+			],
+			[
+				"git:st",
+				"Git: Status"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"git:l",
+				"Git: Log"
+			],
+			[
+				"git:stat",
+				"Git: Status"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"syn:ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"mark",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snip:if el	",
+				"Snippet: if … else … end"
+			],
+			[
+				"snipp",
+				"Snippet: if … end"
+			],
+			[
+				"syntax: ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"ab",
+				"About"
+			],
+			[
+				"syn:	ruby",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 515.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d02/John_Randall/lectures/blog1/main.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d02/John_Randall/lectures/blog1/db/schema.sql",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d02/John_Randall/lectures/blog1/db/seed.sql",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d01/INSTRUCTORS/ruby_and_pg_gem/main.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d01/INSTRUCTORS/myspace_with_gemfile/main.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d01/John_Randall/store_manager/(B[m/Users/johnrandall/.rbenv/versions/1.9.3-p448/lib/ruby/gems/1.9.1/gems/pg-0.17.1/lib/pg.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d01/INSTRUCTORS/psqlandSQL.md",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d01/John_Randall/lecture/ruby_and_pg_gem/main.rb",
+		"/Users/johnrandall/code/wdi/personal/six_degrees_of_johnny_cash/main_v3.rb",
+		"/Users/johnrandall/code/wdi/personal/six_degrees_of_johnny_cash/classes/classes.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d01/John_Randall/Gemfile",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d01/John_Randall/store_manager.rb",
+		"/Users/johnrandall/code/wdi/personal/six_degrees_of_johnny_cash/config.ru",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d03/John_Randall/homework/calc app/app.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d03/John_Randall/homework/stocks app/stocks.rb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/styles/styles.css",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/views/about.erb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/views/contact.erb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/main_v3.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part2/public/styles.css",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash copy/main.rb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/views/home.erb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/views/layout.erb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/views/degrees.erb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/views/error.erb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/views/nav.erb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/classes/classes.rb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/views/waiting.erb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part2/receipt_generator.rb",
+		"/Users/johnrandall/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/main_wilson.rb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash copy/resources/sandbox.rb",
+		"/Users/johnrandall/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/classes/release_group.rb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/main2.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w01/d05/INSTRUCTORS/scrumr/main.rb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/psudocode.rb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/resources/sandbox.rb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/views/output.erb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/classes/artist.rb",
+		"/Users/johnrandall/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/public/index.html",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/views/index.erb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/views/running.erb",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/resources/(B[m{\"xmlns\"=>\"http",
+		"/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/resources/(B[m/Users/johnrandall/code/floobits_sandbox/six_degrees_of_johnny_cash/resources/sandbox.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d05/John_Randall/lectures/json_sandbox/main.rb.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d05/John_Randall/lectures/json_sandbox/views/index.erb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d05/John_Randall/lectures/json_sandbox/views/layout.erb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part2/views/layout.erb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part2/views/index.erb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part2/views/transaction_log.erb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part2/views/transaction_confirmation.erb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d02/John_Randall/homework_pair_proj_wkeyan/css_box_model/box_model/css/style.css",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/.git/MERGE_MSG",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part2/db/transaction_counter.txt",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part2/views/load_data_from_disk.erb",
+		"/Users/johnrandall/floobits/share/feigningfigure/homework/part2/online_receipt_generator/app.rb",
+		"/Users/johnrandall/floobits/share/feigningfigure/homework/part2/RESOURCES/sinatra_builder.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part2/db/transaction_log.txt",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part2/db/transactoin_log.txt",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part2/views/previous_transaction_receipt.erb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part2/views/receipt.erb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part1/command_line_recipt_generator.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part2/recipt_generator.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part1/(B[m/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d04/John_Randall/homework/part1/command_line_recipt_generator.rb",
+		"/Users/johnrandall/floobits/share/feigningfigure/homework/part2/online_receipt_generator/views/index.erb",
+		"/Users/johnrandall/floobits/share/feigningfigure/homework/part1/command_line_recipt_generator.rb",
+		"/Users/johnrandall/floobits/share/feigningfigure/homework/Readme.md",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d03/John_Randall/morning_exercise_p1.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d03/John_Randall/morning_exercise.md",
+		"/Users/johnrandall/floobits/share/feigningfigure/homework/part2/recipt_generator_online.rb",
+		"/Users/johnrandall/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/johnrandall/Desktop/morning_exercise_p1.rb",
+		"/Users/johnrandall/Desktop/morning_exercise_p2.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/.git/COMMIT_EDITMSG",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/ecardly-Source/index.html",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/ecardly-Source/css/style.css",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/ecardly-Source/css/index.html",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/ecardly-Source/index-test.html",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/fix_broken_code/bigsquare-source/index.html",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/fix_broken_code/bigsquare-source/css/style.css",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/Brooklyn-Source/css/style.css",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/Brooklyn-Source/index.html",
+		"/Users/johnrandall/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/css_box_model/box_model/css/style.css",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/css_box_model/box_model/screenshot_complete.png",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/css_box_model/box_model/index.html",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/Brooklyn-Source/images/brook-and-lyn-logo.gif",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/Brooklyn-Source/images/press-logo_lucky.gif",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/Brooklyn-Source/images/home-rings.png",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/Brooklyn-Source/images/home-bloghero.png",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/Brooklyn-Source/images/press-huffpost.gif",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/fix_broken_code/bigsquare-source/css/reset.css",
+		"/Users/johnrandall/desktop/Floobits_john_keyan/Brooklyn-Source/mockup.png",
+		"/Users/johnrandall/Desktop/Floobits_john_keyan/css_box_model/box_model/css/style.css",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d02/INSTRUCTORS/html/index.html",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d02/John_Randall/students_app2/main.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w01/d03/Keyan_Bagheri/mta/mta.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d02/John_Randall/late_morning_lecture/dynamic_html_sinatra/main.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d02/John_Randall/late_morning_lecture/Dynamic_Sinatra_webapp copy/main.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d02/John_Randall/late_morning_exercise/public/stylesheets/main.css",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d02/John_Randall/morning_exercise_postcard.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d02/John_Randall/late_morning_exercise/public/index.html",
+		"/Users/johnrandall/code/wdi/Project Euller/ProjectEuller003  LargestPrimeFactor.rb",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w02/d02/John_Randall/late_morning_exercise/main.rb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"old_product_quantity_in_stock",
+			"'#{id}'",
+			"WHERE id",
+			"id",
+			"yes",
+			"dbname",
+			"tablename",
+			"Ui",
+			"ERROR",
+			"responses",
+			"get_and_validate",
+			"response",
+			"@db",
+			"conn",
+			"@",
+			"@db",
+			"artist_list",
+			"just created Artist from id",
+			"just",
+			"artist_hash",
+			"array_of_artists_to_expand_from",
+			"add_self_to_array_of_artists_to_expand_from",
+			"array_of_artists_to_test",
+			"array_of_artists_to_expand_from",
+			"api_artist_arr_by_id",
+			"@artists_arr",
+			"artists_arr",
+			"Release_group",
+			"artists_arr_by_name",
+			"artist_arr_by_id",
+			"array_of_related_artists_by_name",
+			"array_of_related_artists_by_id",
+			"api_array_of_release_groups",
+			"api_raw",
+			"raw_hash_or_id",
+			"array_of_related_artists",
+			"array_of_recording_groups",
+			"redire",
+			"thank_you_msg",
+			"add_receipt",
+			"transaction_number",
+			"number",
+			"receipts_array",
+			"item_service_name",
+			"service",
+			"orange",
+			"right",
+			"linked",
+			"postcard_objs_arr",
+			"person",
+			"art",
+			"puts",
+			"#{@",
+			"address",
+			"num_floors",
+			"has_doorman",
+			"\n",
+			"Integer",
+			"integer",
+			"boolean",
+			"don't",
+			"hash_keys_into_string",
+			"clean_and_shuffle_string",
+			"hash_keys_to_one_giant_string",
+			"find_and_count_stuff",
+			"room_to_search_in",
+			"thing",
+			"item",
+			"choice",
+			"display",
+			"part 1",
+			"scanner1",
+			"mover1",
+			"discInHand",
+			"parent.",
+			"main",
+			"chosenStack",
+			"stones",
+			"organe",
+			"onMouseOut=\"document.MyImage.src='image1.gif';\"",
+			"edit",
+			"mirror",
+			"gtf",
+			"email",
+			"response_parsed",
+			"rss",
+			"key",
+			"#",
+			"first",
+			"slim",
+			"my",
+			"puts",
+			"		",
+			"puts",
+			"double",
+			"shit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"thank_you_msg_single",
+			"transaction_confirmation",
+			"do not",
+			"thing_to_search_in",
+			"scanner",
+			"mover",
+			"$discInHand",
+			"$",
+			"parent",
+			"chosenSourceStack",
+			"stack"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 131.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 193.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 112.0
+	},
+	"output.git-init":
+	{
+		"height": 112.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 200.0
+	},
+	"project": "john.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"db/students.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"contr",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"obj",
+				"homework/object_homework_2013-11-21.rb"
+			],
+			[
+				"chea",
+				"BEWD_NYC_6/CheatSheet.md"
+			],
+			[
+				"cha",
+				"~/DocProjects/GA/BEWD_NYC_6/CheatSheet.md"
+			],
+			[
+				"fizz",
+				"~/DocProjects/GA/BEWD_NYC_6/02_Variables_Conditionals/fixbuzz.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 111.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}
