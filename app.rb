@@ -5,7 +5,6 @@ require 'sinatra/reloader'
 # ABC = Always Be Committing
 
 
-
 ####CONSTANTS
 $wining_states_hash = {
   :rock => :scissors,
@@ -52,6 +51,45 @@ $wining_states_hash = {
             #   erb :result
             # end
 
+
+# If you're making edits of the code, copy and paste the code into
+# your section and make edits there. The merge conflicts only happen
+# if we're editing the same code. We can then communicate and review
+# which code we should use.
+
+
+
+############ CHRIS'S CODE ###############
+
+
+
+
+
+
+
+
+
+########### END CHRIS ###################
+
+
+
+########### ANDREW'S CODE #################
+
+
+
+
+
+
+########### END ANDREW ###################
+
+
+
+
+############# JOHN'S CODE ##################
+
+
+
+############# END JOHN #####################
 
 
 def evaluate_results(user_choice, computer_choice)
