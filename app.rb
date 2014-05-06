@@ -2,6 +2,7 @@
 require 'sinatra'
 require 'sinatra/reloader'
 
+# ABC = Always Be Committing
 
 ####CONSTANTS
 $wins_hash = {
@@ -64,11 +65,21 @@ end
 
 ### CONTROLLER
 get '/' do
+<<<<<<< HEAD
   redirect('/play')
 end
 
 get '/play' do
   erb :play
+=======
+  redirect '/play'
+end
+
+get '/play' do
+
+erb :play
+
+>>>>>>> 1949f46356b1daf38a46bfedec92c1d9818a35f1
 end
 
 
