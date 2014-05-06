@@ -4,6 +4,8 @@ require 'sinatra/reloader'
 
 # ABC = Always Be Committing
 
+
+
 ####CONSTANTS
 $wins_hash = {
   :rock => :scissors,
@@ -17,7 +19,9 @@ $wins_hash = {
   :spock => :rock,
   :spock => :scissors
 }
-
+# You can't use multiple instances of the same key.
+# You can do rock: [scissors, lizard], and then pluck one or the other
+# out as needed.
 
 #### LOGIC
 
