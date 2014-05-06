@@ -15,11 +15,26 @@ require 'sinatra/reloader'
 
 ############ CHRIS'S CODE ###############
 
+$wining_states_hash = {
+  :rock => [:scissors, :lizard],
+  :scissors => [:paper, :lizard],
+  :paper => [:rock, :spock],
+  :lizard => [:paper, :spock],
+  :spock => [:rock, :scissors]
+}
 
 
 
-
-
+def evaluate_results(user_choice, computer_choice)
+  user_choice = user_choice.to_sym
+  if user_choice == computer_choice[0] || user_choice == computer_choice[1]
+    return "Tie!"
+  elsif user_choice == $wining_states_hash[computer_choice[0]] || user_choice == $wining_states_hash[computer_choice[1]]
+    return "Computer wins!"
+  elsif user_choice != $wining_states_hash[computer_choice[0]] || user_choice != $wining_states_hash[computer_choice[1]]
+    return "User wins!"
+  end
+end
 
 
 
