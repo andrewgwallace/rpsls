@@ -520,9 +520,18 @@
 	"buffers":
 	[
 		{
+			"file": "/Users/johnrandall/code/wdi/personal/rpsls/app.rb",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 2586,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/johnrandall/code/wdi/personal/rpsls/views/index.erb",
+			"settings":
+			{
+				"buffer_size": 449,
 				"line_ending": "Unix"
 			}
 		}
@@ -530,9 +539,53 @@
 	"build_system": "Packages/Ruby/Ruby.sublime-build",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 187.0,
 		"selected_items":
 		[
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"quick",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git qui",
+				"Git: Quick Add"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git pu	",
+				"Git: Push"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Quick Add"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
 			[
 				"synt",
 				"Set Syntax: Ruby"
@@ -544,10 +597,6 @@
 			[
 				"floo",
 				"Floobits - Join Recent Workspace"
-			],
-			[
-				"ren",
-				"File: Rename"
 			],
 			[
 				"floot",
@@ -630,10 +679,6 @@
 				"Git: Commit"
 			],
 			[
-				"git stat",
-				"Git: Status"
-			],
-			[
 				"git:com",
 				"Git: Commit"
 			],
@@ -714,7 +759,7 @@
 				"Set Syntax: Ruby"
 			]
 		],
-		"width": 593.0
+		"width": 587.0
 	},
 	"console":
 	{
@@ -736,6 +781,15 @@
 	},
 	"file_history":
 	[
+		"/Users/johnrandall/code/wdi/personal/rpsls/app.rb",
+		"/Users/johnrandall/code/wdi/personal/rpsls/views/layout.erb",
+		"/Users/johnrandall/code/wdi/personal/rpsls/views/play.erb",
+		"/Users/johnrandall/code/wdi/personal/rpsls/views/result.erb",
+		"/Users/johnrandall/code/wdi/personal/rpsls/public/styles.css",
+		"/Users/johnrandall/code/wdi/personal/rpsls/public/reset.css",
+		"/Users/johnrandall/code/wdi/personal/rpsls/views/index.erb",
+		"/Users/johnrandall/code/wdi/personal/rpsls/.git/COMMIT_EDITMSG",
+		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d02/John_Randall/rock_paper_scissors/main.rb",
 		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d02/John_Randall/lectures/blog1/main.rb",
 		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d02/John_Randall/lectures/blog1/db/schema.sql",
 		"/Users/johnrandall/code/wdi/WDI_NYC_Apr14_String/w03/d02/John_Randall/lectures/blog1/db/seed.sql",
@@ -861,6 +915,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"wins_hash",
 			"old_product_quantity_in_stock",
 			"'#{id}'",
 			"WHERE id",
@@ -990,10 +1045,88 @@
 			[
 				{
 					"buffer": 0,
+					"file": "/Users/johnrandall/code/wdi/personal/rpsls/app.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 2586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1229,
+								1229
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 561.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/johnrandall/code/wdi/personal/rpsls/views/index.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 449,
 						"regions":
 						{
 						},
@@ -1051,15 +1184,22 @@
 								"bh_tag_close"
 							],
 							"incomplete_sync": null,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
+			]
+		},
+		{
+			"sheets":
+			[
 			]
 		}
 	],
@@ -1080,11 +1220,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -1109,6 +1256,14 @@
 	"output.git-init":
 	{
 		"height": 112.0
+	},
+	"output.git-pull":
+	{
+		"height": 27.0
+	},
+	"output.git-push":
+	{
+		"height": 137.0
 	},
 	"output.markdown":
 	{
@@ -1183,7 +1338,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 111.0,
+	"side_bar_width": 189.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
