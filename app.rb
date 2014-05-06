@@ -63,6 +63,10 @@ end
 
 
 ### CONTROLLER
+get '/' do
+  redirect '/play'
+end
+
 get '/play' do
 end
 
