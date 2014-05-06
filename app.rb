@@ -7,7 +7,7 @@ require 'sinatra/reloader'
 
 
 ####CONSTANTS
-$wins_hash = {
+$wining_states_hash = {
   :rock => :scissors,
   :rock => :lizard,
   :scissors => :paper,
@@ -69,13 +69,11 @@ end
 
 ### CONTROLLER
 get '/' do
-  redirect '/play'
+  redirect('/play')
 end
 
 get '/play' do
-
-erb :play
-
+  erb :play
 end
 
 
