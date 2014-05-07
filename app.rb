@@ -18,7 +18,7 @@ require 'sinatra/reloader'
 
 #combined John's simplified .include? code.
 
-$wining_states_hash = {
+$wins_hash = {
   :rock => [:scissors, :lizard],
   :scissors => [:paper, :lizard],
   :paper => [:rock, :spock],
@@ -32,7 +32,7 @@ def evaluate_results(user_choice, computer_choice)
   user_choice = user_choice.to_sym
   if user_choice == computer_choice
     return "Tie!"
-  elsif $wining_states_hash[user_choice].include?(computer_choice)
+  elsif $wins_hash[user_choice].include?(computer_choice)
     return "User wins!"
   else #
     return "Computer wins!"
